@@ -1,0 +1,11 @@
+{
+    "development": {
+      "noVerifyJwt": [],
+      "verifyJwt": []
+    },
+    "production": {
+      "noVerifyJwt": [],
+      "verifyJwt": []
+    }
+  }
+  
